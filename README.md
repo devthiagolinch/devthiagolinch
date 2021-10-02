@@ -3,8 +3,8 @@
 
 <div align="center">
   <a href="https://github.com/devthiagolinch">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=devthiagolinch&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devthiagolinch&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=devthiagolinch&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devthiagolinch&layout=compact&langs_count=7&theme=cobalt"/>
 </div>
 
 - I’m currently not working. But i'm looking for a job as Dev Web...
