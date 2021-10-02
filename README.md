@@ -2,20 +2,20 @@
 <h3 align="center">A Web Developer Jr. focused on make the world a better place using technology for this.</h3>
 
 <div align="center">
-  <a href="https://github.com/devthiagolinch">
+  <a href="https://github.com/devthiagolinch"></a>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=devthiagolinch&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devthiagolinch&layout=compact&langs_count=7&theme=cobalt"/>
 </div>
 
-- I’m currently not working. But i'm looking for a job as Dev Web...
+* I’m currently not working. But i'm looking for a job as Dev Web...
 
-- All of my projects are available at [thiagolinch](https://github.com/devthiagolinch)
+* All of my projects are available at: <a href="https://github.com/devthiagolinch">Thiago Linch</a>
 
-- I'm a student of ReactJS and SQL
+* I'm a student of ReactJS and SQL
 
-- I have some experience working with HTML,CSS,JS and RoR
+* I have some experience working with HTML,CSS,JS and RoR
 
-- 📫 How to reach me **dev.thiagolinch@gmail.com**
+* 📫 How to reach me **dev.thiagolinch@gmail.com**
 
 <p align="left">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="20" height="20"/>
