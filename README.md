@@ -1,5 +1,5 @@
 <h1 align="center">Hi dear <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Thiago Linch</h1>
-<h3 align="center">A Web Developer Jr. focused on learn and grow up in programming</h3>
+<h3 align="center">A Web Developer Jr. focused on make the world a better place using technology for this.</h3>
 
 - I’m currently not working. But i'm looking for a job as Dev Web...
 
