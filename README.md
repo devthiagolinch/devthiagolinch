@@ -1,6 +1,12 @@
 <h1 align="center">Hi dear <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Thiago Linch</h1>
 <h3 align="center">A Web Developer Jr. focused on make the world a better place using technology for this.</h3>
 
+<div align="center">
+  <a href="https://github.com/devthiagolinch">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=devthiagolinch&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devthiagolinch&layout=compact&langs_count=7&theme=dracula"/>
+</div>
+
 - I’m currently not working. But i'm looking for a job as Dev Web...
 
 - All of my projects are available at [thiagolinch](https://github.com/devthiagolinch)
