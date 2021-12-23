@@ -1,5 +1,5 @@
 <h1 align="center">Hi dear <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Thiago Linch</h1>
-<h3 align="center">A Web Developer Jr. focused on make the world a better place using technology for this.</h3>
+<h3 align="center">A Web Developer Jr. focused on make the world a better place using technology.</h3>
 
 <div align="center">
   <a href="https://github.com/devthiagolinch"></a>
@@ -11,7 +11,7 @@
 
 * All of my projects are available at: <a href="https://github.com/devthiagolinch">Thiago Linch</a>
 
-* I'm a student of ReactJS and SQL
+* I'm a student of ReactJS, Node.jS, SQLite, Firebase and Ruby on Rails.
 
 * I have some experience working with HTML,CSS,JS and RoR
 
